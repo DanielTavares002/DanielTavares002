@@ -1,4 +1,16 @@
-## Hi there 👋
+Daniel Tavares | Desenvolvedor Full-Stack
+
+Linguagens
+TypeScript JavaScript Java C Python C# PHP
+
+Tecnologias e frameworks
+Node.js
+
+Front-end
+React
+
+Bancos de dados
+SQLite MySQL PostgreSQL Prisma
 
 <!--
 **DanielTavares002/DanielTavares002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
